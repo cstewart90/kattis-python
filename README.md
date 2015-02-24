@@ -1,4 +1,4 @@
-Kattis Problems
+Kattis Problems in Python
 ============
 URL: https://open.kattis.com
 
