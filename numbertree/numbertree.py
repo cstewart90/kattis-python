@@ -1,5 +1,5 @@
 """
-http://open.kattis.com/problems/numbertree
+https://open.kattis.com/problems/numbertree
 """
 
 line = input().split()

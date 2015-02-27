@@ -1,5 +1,5 @@
 """
-http://open.kattis.com/problems/easiest
+https://open.kattis.com/problems/easiest
 """
 
 import sys
